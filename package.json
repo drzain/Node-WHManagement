@@ -1,0 +1,16 @@
+{
+  "name": "asterisk",
+  "version": "1.0.0",
+  "description": "Asterisk API beta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dev-cc@pkp.co.id",
+  "license": "ISC",
+  "dependencies": {
+    "asterisk-manager": "^0.1.16",
+    "express": "^4.16.3",
+    "uuid": "^3.2.1"
+  }
+}
