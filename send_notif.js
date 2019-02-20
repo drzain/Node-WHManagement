@@ -33,6 +33,8 @@ var message = {
   headings: {"en": "WHManagement Notif"},
   app_id: "004a1e03-c0d9-49e4-8544-bc65056c67ff",
   contents: {"en": "Testing Notif"},
+  android_sound: "notification",
+  android_visibility: 1,
   included_segments: ["All"]
 };
 
